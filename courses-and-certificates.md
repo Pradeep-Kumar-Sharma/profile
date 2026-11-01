@@ -70,3 +70,22 @@ http://ude.my/UC-af12056a-8421-4841-95e3-75624aaeeecb
 
 19. Intro to MCP (Model Context Protocol)  
 http://ude.my/UC-3e49d30b-269f-41a7-b246-069777186b3e  
+
+20. AI Engineer Agentic Track: The Complete Agent & MCP Course
+http://ude.my/UC-96893aa4-c25e-4ba6-b3f3-9a2db043c6ac
+
+21. Multithreading in Modern C++|C++11|C++14|C+ +17| C++20
+http://ude.my/UC-0c0907ca-869e-4e69-b8c4-b92d7ad8b420
+
+22. Threat Modeling using STRIDE masterclass - 2026
+http://ude.my/UC-41724f22-f130-43db-9300-07f2f702b1c1
+
+23. Secure Coding in C/C++
+http://ude.my/UC-4e452a1c-da68-4e22-80a5-aff21dac4ba7
+
+24. Secure Coding in C/C++
+http://ude.my/UC-4e452a1c-da68-4e22-80a5-aff21dac4ba7
+
+25. Socket Programming In C++ (Windows)
+http://ude.my/UC-2d8f7172-29fd-4a22-8fd4-7620a7053891
+
