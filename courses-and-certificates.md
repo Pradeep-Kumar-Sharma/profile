@@ -89,3 +89,14 @@ http://ude.my/UC-4e452a1c-da68-4e22-80a5-aff21dac4ba7
 25. Socket Programming In C++ (Windows)
 http://ude.my/UC-2d8f7172-29fd-4a22-8fd4-7620a7053891
 
+26. Claude Code: Getting Started [2026]
+http://ude.my/UC-0599b725-13b7-484e-82df-2928bb0354d7
+
+27. Claude Code: Advanced [2026]
+http://ude.my/UC-70f55e06-44b9-408b-ba29-d7bf0440e9b6
+
+
+
+ 
+
+
