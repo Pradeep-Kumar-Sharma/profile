@@ -95,8 +95,14 @@ http://ude.my/UC-0599b725-13b7-484e-82df-2928bb0354d7
 27. Claude Code: Advanced [2026]
 http://ude.my/UC-70f55e06-44b9-408b-ba29-d7bf0440e9b6
 
-
-
+28. Al Engineer Agentic Track: The Complete Agent & MCP Course
+http://ude.my/UC-96893aa4-c25e-4ba6-b3f3-9a2db043c6ac
  
+29. Full stack generative and Agentic AI with python
+http://ude.my/UC-21186f18-a307-4a3c-a527-4f3c25b7e6cb
 
+30. Vector Databases Fundamentals to Production [2026 Edition]
+http://ude.my/UC-0db49515-e037-4776-bc8d-cb4a153c1831
 
+31. C++ Unit Testing: Google Test and Google Mock
+http://ude.my/UC-2cd2fefc-a985-4a59-8cc5-868e253c7386
